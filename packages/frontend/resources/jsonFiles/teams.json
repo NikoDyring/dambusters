@@ -1,0 +1,22 @@
+{
+    "Ironwall":{
+        "name": "Ironwall",
+        "description": "Started in Tomb of Sargeras, and is the oldest team of the Dambusters,  currently #1 in the guild. 11/12M Nyalotha. They raid 3 days a week, and are looking to push Top #1000 in Shadowlands.",
+        "difficulty": "Mythic"
+    },
+    "Wildwood":{
+        "name": "Wildwood",
+        "description": "Started late July 2020, They are the third team of the Dambusters, on par with Stonewrought in Nyalotha: 10/12M. They raid 2 days a week. Aim for Shadowlands is cutting edge and try bring competition to the IW team.",
+        "difficulty": "Mythic"
+    },
+    "Virnaal":{
+        "name": "Virnaal",
+        "description": "Pommy ipsum bent as a nine bob note naff off biscuits nowt, a cuppa unhand me sir hadn't done it in donkey's years sod's law.",
+        "difficulty": "Heroic"
+    },
+    "Stonewrought":{
+        "name": "Stonewrought",
+        "description": "Started in Nyalotha. They are the second team made of the Dambusters. They are on par with Wildwood in progression in BFA: 10/12M. They raid 3 days a week. Goal in Shadowlands is Cutting Edge.",
+        "difficulty": "Mythic"
+    }
+}

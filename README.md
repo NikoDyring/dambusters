@@ -9,21 +9,25 @@ Who knows, this might become a CMS-candidate in the future for other guilds to a
 
 ## 📦 Packages
 
-### ⚙️ API
-
->RESTful API.
-
-### 🔌Common
+### 🔌 Common
 
 >Middleware.
 
-### 🌍 Web
+### ⚙️ Backend
+
+>RESTful API.
+
+### 🌍 Frontend
 
 >General guild website.
 
 ### 📱 Admin
 
->Used for administration purposes, consider it the CMS for the website.
+>Used for administration purposes, consider it the CMS UI for the website.
+
+### Bot
+
+>Bot for our discord. Extended version of the TLDR dungeon guide.
 
 ## 🎉 Future
 
