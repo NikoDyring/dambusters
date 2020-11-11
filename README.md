@@ -25,10 +25,10 @@ Who knows, this might become a CMS-candidate in the future for other guilds to a
 
 >Used for administration purposes, consider it the CMS UI for the website.
 
-### Bot
+### 🤖 Bot
 
 >Bot for our discord. Extended version of the TLDR dungeon guide.
 
-## 🎉 Future
+## 🎉 Misc
 
 I'm also currently working on a [discord bot](https://github.com/NikoDyring/tldr-dungeon-bot). That'll mainly be used for providing TL:DR descriptions of boss fights/ dungeon strategies for new and seasoned players in the World of Warcraft universe. Later on this might even be extended to have a cooperation with the website. Could be commands to push/add items to a collection or get links that would come from the API.
