@@ -1,0 +1,22 @@
+{
+  "name": "dambusters",
+  "private": true,
+  "scripts": {
+    "ct": "git-cz",
+    "bootstrap": "npm install lerna && lerna bootstrap && npm install",
+    "reset": "npm run cleanup && npx rimraf node_modules && npm run bootstrap",
+    "test": "lerna run test",
+    "jest": "jest",
+    "build": "npm run cleanup && lerna run compile",
+    "build:watch": "npm run cleanup && lerna run compile:watch --stream --no-sort",
+    "cleanup": "lerna run cleanup --stream --parallel",
+    "lint": "lerna run lint",
+    "publish": "lerna publish --force-publish=* --skip-npm --skip-git",
+    "prepublish": "npm run build",
+    "commitmsg": "commitlint -e $GIT_PARAMS",
+    "release": "lerna publish --conventional-commits --skip-git --skip-npm"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
