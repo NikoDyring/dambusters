@@ -40,7 +40,9 @@
       "jest.disabledWorkspaceFolders": [
         "Root",
         "Website",
-        "API"
+        "API",
+        "Backend",
+        "Bot"
       ],
       "jest.pathToJest": "npm run test --"
     }
