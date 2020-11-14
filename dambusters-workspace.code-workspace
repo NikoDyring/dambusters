@@ -19,6 +19,10 @@
       {
         "name": "Bot",
         "path": "packages/bot"
+      },
+      {
+        "name": "Admin",
+        "path": "packages/admin"
       }
 
     ],
