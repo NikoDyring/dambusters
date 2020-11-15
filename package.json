@@ -1,7 +1,9 @@
 {
   "name": "dambusters",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "build":"npx lerna run build"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   }
