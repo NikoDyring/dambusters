@@ -5,8 +5,8 @@ import playerController from './player/controller/item'
 import playerCollectionController from './player/controller/collection'
 
 export default [
-  router('/team', teamCollectionController),
-  router('/team/:name', teamController),
-  router('/player', playerCollectionController),
-  router('/player/:name', playerController)
+  router('/teams', teamCollectionController),
+  router('/teams/:name', teamController),
+  router('/players', playerCollectionController),
+  router('/players/:name', playerController)
 ]
