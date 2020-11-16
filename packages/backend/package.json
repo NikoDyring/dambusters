@@ -52,6 +52,7 @@
     "@curveball/cors": "^0.1.0",
     "@curveball/problem": "^0.2.2",
     "@curveball/router": "^0.2.4",
+    "@dambusters/common": "^1.0.0",
     "dotenv": "^8.2.0",
     "mongoose": "^5.10.11",
     "saslprep": "^1.0.3"

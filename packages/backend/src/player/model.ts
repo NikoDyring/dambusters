@@ -1,6 +1,6 @@
 import { Document, Schema, Model, model, Types } from 'mongoose'
 import { TeamBaseDocument } from '../team/model'
-import { Player, Titles } from '@dambusters-website/common/src/index'
+import { Player, Titles } from '../../../common/src/index'
 
 /*
  * Reading-fabric?

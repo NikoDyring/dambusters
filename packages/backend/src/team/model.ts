@@ -1,5 +1,5 @@
 import { Document, Schema, Model, model /* Types <- You'll need this eventually */ } from 'mongoose'
-import { Team } from '@dambusters-website/common/src/index'
+import { Team } from '../../../common/src/index'
 
 /*
  * Reading-fabric?
