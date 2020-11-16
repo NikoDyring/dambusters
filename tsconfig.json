@@ -1,11 +1,14 @@
 {
   "extends": "./tsconfig.build.json",
   "compilerOptions": {
-    "baseUrl": "./packages",
+    "baseUrl": ".",
     "paths": {
       "@dambusters/*": [
-        "*/src"
+        "packages/*/src"
       ]
-    }
+    },
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "types": []
   }
 }
