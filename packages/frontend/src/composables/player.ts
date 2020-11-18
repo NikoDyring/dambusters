@@ -26,7 +26,7 @@ export function useGetPlayer () {
 export function useGetAllPlayers () {
   const players = ref<Player[]>([])
   const getAllPlayers = async () => {
-    const parsed = await ky.get('player').json() as Player[]
+    const parsed = await ky.get('players').json() as Player[]
 
     players.value = parsed
   }
