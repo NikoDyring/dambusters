@@ -1,1 +1,1 @@
-# 🚨 Auth
+# 🧍 User Service
