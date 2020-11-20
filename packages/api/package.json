@@ -1,5 +1,5 @@
 {
-  "name": "@dambusters/backend",
+  "name": "@dambusters/api",
   "version": "1.0.0",
   "description": "Minimal curveball starter template",
   "main": "dist/index.js",

@@ -17,9 +17,13 @@ Who knows, this might become a CMS-candidate in the future for other guilds to a
 
 >Middleware.
 
-### ⚙️ Backend
+### 📟 API
 
 >RESTful API.
+
+### 🚨 Auth
+
+> Authentication
 
 ### 🌍 Frontend
 
@@ -33,6 +37,10 @@ Who knows, this might become a CMS-candidate in the future for other guilds to a
 
 >Bot for our discord. Extended version of the TLDR dungeon guide.
 
-## 🎉 Misc
+### ⚙️ Services
 
-I'm also currently working on a [discord bot](https://github.com/NikoDyring/tldr-dungeon-bot). That'll mainly be used for providing TL:DR descriptions of boss fights/ dungeon strategies for new and seasoned players in the World of Warcraft universe. Later on this might even be extended to have a cooperation with the website. Could be commands to push/add items to a collection or get links that would come from the API.
+> #### 🧍 User Service
+> User Service
+
+> #### 🧑‍🤝‍🧑 Team Service
+> Team Service
