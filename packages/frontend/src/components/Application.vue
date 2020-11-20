@@ -9,10 +9,10 @@
       </p>
     </div>
     <div class="grid gap-8 row-gap-5 mb-8 md:row-gap-8 lg:grid-cols-4 sm:grid-cols-2">
-      <div class="duration-300 transform bg-white border-l-4 border-orange-600 hover:-translate-y-2">
-        <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-          <h6 class="mb-2 font-semibold leading-5">Ironwall</h6>
-          <p class="text-sm text-gray-900">
+      <div class="duration-300 transform bg-gray-900 border-l-4 rounded-r border-orange-600 hover:-translate-y-2">
+        <div class="h-full p-5  rounded-r shadow-sm">
+          <h6 class="mb-2 font-semibold text-white leading-5">Ironwall</h6>
+          <p class="text-sm text-gray-200">
             Sportacus andrew weatherall goose Refined gentlemen super mario des lynam alpha trion zap rowsdower.
           </p>
           <p class="text-md text-orange-500">11/12M</p>
@@ -23,30 +23,30 @@
           </p>
         </div>
       </div>
-      <div class="duration-300 transform bg-white border-l-4 border-orange-600 hover:-translate-y-2">
-        <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-          <h6 class="mb-2 font-semibold leading-5">Wildwood</h6>
-          <p class="text-sm text-gray-900">
+      <div class="duration-300 transform bg-gray-900 border-l-4 rounded-r border-orange-600 hover:-translate-y-2">
+        <div class="h-full p-5 shadow-sm">
+          <h6 class="mb-2 font-semibold text-white leading-5">Wildwood</h6>
+          <p class="text-sm text-gray-200">
             Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </p>
           <p class="text-md text-orange-500">10/12M</p>
-          <p class="text-md text-black">
+          <p class="text-md text-white">
             <a href="#">Apply</a>
             |
             <a href="#">About</a>
           </p>
         </div>
       </div>
-      <div class="duration-300 transform bg-white border-l-4 border-orange-600 hover:-translate-y-2">
-        <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
+      <div class="duration-300 transform bg-gray-900 border-l-4 rounded-r border-orange-600 hover:-translate-y-2">
+        <div class="h-full p-5 shadow-sm">
           <h6 class="mb-2 font-semibold leading-5">Stonewrought</h6>
           <p class="text-sm text-gray-900">
             Bro ipsum dolor sit amet gaper backside single track, manny Bike epic clipless. Schraeder drop gondy.
           </p>
         </div>
       </div>
-      <div class="duration-300 transform bg-white border-l-4 border-orange-600 hover:-translate-y-2">
-        <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
+     <div class="duration-300 transform bg-gray-900 border-l-4 rounded-r border-orange-600 hover:-translate-y-2">
+        <div class="h-full p-5  shadow-sm">
           <h6 class="mb-2 font-semibold leading-5">Virnaal</h6>
           <p class="text-sm text-gray-900">
             A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear.
