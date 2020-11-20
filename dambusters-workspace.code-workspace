@@ -23,6 +23,14 @@
       {
         "name": "Admin",
         "path": "packages/admin"
+      },
+      {
+        "name": "Services/User",
+        "path": "packages/services/user"
+      },
+      {
+        "name": "Services/Team",
+        "path": "packages/services/team"
       }
 
     ],
