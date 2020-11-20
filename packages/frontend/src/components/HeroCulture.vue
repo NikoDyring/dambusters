@@ -7,7 +7,7 @@
       <h2 class="relative z-20 text-5xl font-extrabold leading-tight text-white mx-auto text-center">We need you Champion!</h2>
       <p class="relative z-20 block mt-4 text-xl mx-auto text-center">We've created the ultimate resource for turning your culture into a super-powered productivity machine by encouraging collaboration growth, and incentives!</p>
       <div class="flex mt-4">
-        <a href="#_" class="flex items-center self-start justify-center px-5 py-3 mt-5 text-base font-medium leading-tight text-white transition duration-150 ease-in-out bg-red-600 border border-transparent rounded-lg shadow hover:bg-red-900 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo md:py-4 md:text-lg md:px-8 mx-auto">Apply!</a>
+        <a href="/apply" class="flex items-center self-start justify-center px-5 py-3 mt-5 text-base font-medium leading-tight text-white transition duration-150 ease-in-out bg-red-600 border border-transparent rounded-lg shadow hover:bg-red-900 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo md:py-4 md:text-lg md:px-8 mx-auto">Apply!</a>
       </div>
     </div>
   </div>
