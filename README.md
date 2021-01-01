@@ -1,9 +1,9 @@
 # 🛩️ The Dambusters
 
 The Dambusters is a World of Warcraft guild based on the Kazzak realm.
-As a software engineering student, I decided to create the website for the team as the old one we had was a piece of ancient technology. Previously we used WordPress for the website, but due to the lack of WoW-related themes, plugins and extensions, I decided now was a good time to expand upon our community and build something we could customize for our specific needs.
+As a software engineering student, I decided to create the two applications for the team as the old one we had was a piece of ancient technology. Previously we used WordPress for the website, but due to the lack of WoW-related themes, plugins and extensions, I decided now was a good time to expand upon our community and build something we could customize for our specific needs.
 
-Who knows, this might become a CMS-candidate in the future for other guilds to appreciate.
+Who knows, this might become a CMS-candidate in the future for other guilds/communities to appreciate.
 
 **NOTE**: *Have in mind the software is currently under heavy development and what you see is subject to change.*
 
